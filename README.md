@@ -18,7 +18,7 @@ modern_fastapi_pro/
 │
 ├── requirements.txt
 ├── Dockerfile
-└── README.md
+└── README.mds
 
 
 ────────────────────────────
