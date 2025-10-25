@@ -15,6 +15,7 @@ modern_fastapi_pro/
 │       ├── register.html
 │       ├── contact.html
 │       └── admin.html
+           Flasks
 │
 ├── requirements.txt
 ├── Dockerfile
