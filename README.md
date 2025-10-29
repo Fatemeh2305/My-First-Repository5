@@ -16,7 +16,7 @@ modern_fastapi_pro/
 │       ├── contact.html
 │       └── admin.html
            Flasks
-           else:
+           
 │
 ├── requirements.txt
 ├── Dockerfile
