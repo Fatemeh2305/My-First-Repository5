@@ -235,7 +235,7 @@ def admin(request: Request, db: Session = Depends(get_session)):
 ────────────────────────────
 Templates
 ────────────────────────────
-
+ """)
 base.html
 ---------------------------------
 <!doctype html>
