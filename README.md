@@ -42,7 +42,7 @@ app.mount("/static", StaticFiles(directory="app/static"), name="static")
 
 
 ────────────────────────────
-app/db.py
+
 ────────────────────────────
 from sqlmodel import SQLModel, create_engine, Session
 from typing import Generator
