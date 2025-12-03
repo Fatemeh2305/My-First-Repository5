@@ -29,7 +29,7 @@ app/main.py
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from app.db import create_db_and_tables
-from app.routes import router
+from app.
 
 app = FastAPI(title="ModernFastAPIPro", version="1.0.0")
 
