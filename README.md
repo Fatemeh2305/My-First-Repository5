@@ -30,6 +30,7 @@ from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from app.db import create_db_and_tables
 from app.
+db.close()
 
 app = FastAPI(title="ModernFastAPIPro", version="1.0.0")
 
